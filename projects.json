@@ -14,19 +14,19 @@
 		{
 			"name": "Second Project",
 			"projectDescription": "jkdsblvds",
-      "img0": "../images/city.jpg#",
+      "img0": "../images/london.jpg#",
       "img1": "../images/citynight.jpg#",
       "img2": "../images/london.jpg#",
-      "img3": "../images/skyscraper.jpg#"
+      "img3": "../images/citynight.jpg#"
 		},
 
 		{
 			"name": "Third Project",
 			"projectDescription": "jkdsblvds",
        "img0": "../images/city.jpg#",
-      "img1": "../images/citynight.jpg#",
-      "img2": "../images/london.jpg#",
-      "img3": "../images/skyscraper.jpg#"
+      "img1": "../images/usa.jpg#",
+      "img2": "../images/city.jpg#",
+      "img3": "../images/usa.jpg#"
 		}
 	]
 }
