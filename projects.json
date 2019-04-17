@@ -1,0 +1,32 @@
+{
+	"projects": [
+
+		{
+			"name": "Project One",
+			"projectDescription": "jkdsblvds",
+
+      "img0": "../images/city.jpg#",
+      "img1": "../images/citynight.jpg#",
+      "img2": "../images/london.jpg#",
+      "img3": "../images/skyscraper.jpg#"
+		},
+
+		{
+			"name": "Second Project",
+			"projectDescription": "jkdsblvds",
+      "img0": "../images/city.jpg#",
+      "img1": "../images/citynight.jpg#",
+      "img2": "../images/london.jpg#",
+      "img3": "../images/skyscraper.jpg#"
+		},
+
+		{
+			"name": "Third Project",
+			"projectDescription": "jkdsblvds",
+       "img0": "../images/city.jpg#",
+      "img1": "../images/citynight.jpg#",
+      "img2": "../images/london.jpg#",
+      "img3": "../images/skyscraper.jpg#"
+		}
+	]
+}
